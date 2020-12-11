@@ -1,0 +1,8 @@
+{
+    "name": "Go CI workflow",
+    "description": "All you need to make sure your Go project is healthy ... test, lint etc ... ",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+}
